@@ -1,2 +1,2 @@
 # personal-github
-Welocom to git hub
+Welcome to git hub
